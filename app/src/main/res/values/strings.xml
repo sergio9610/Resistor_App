@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Resistor App</string>
+    <string name="name_app">Resistor App</string>
+    <string name="color_one">Color 1</string>
+    <string name="color_two">Color 2</string>
+    <string name="multiplier">Multiplicador</string>
+    <string name="tolerance">Tolerancia</string>
+    <string name="result">El valor de la resistencia es: 0 ohmios</string>
+    <string name="calculate">Calcular R</string>
+</resources>
